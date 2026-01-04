@@ -33,7 +33,7 @@ File: `dataset_knapsack_tas_mahasiswa_informatika.csv`
 ### 1) Dynamic Programming (Solusi Optimal)
 Jalankan:
 ```bash
-python knapsack_dp_from_csv.py
+python knapsack_dp.py
 ```
 
 Output yang ditampilkan:
@@ -44,7 +44,7 @@ Output yang ditampilkan:
 ### 2) Perbandingan Brute Force vs Backtracking
 Jalankan:
 ```bash
-python compare_bruteforce_backtracking_save_ms.py
+python knapsack_tugas1.py
 ```
 
 Program akan menghasilkan file:
