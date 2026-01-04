@@ -1,0 +1,8 @@
+Jumlah_Item,BruteForce_Kombinasi,Backtracking_Node,Waktu_BruteForce_ms,Waktu_Backtracking_ms,Nilai_Optimal
+4,16,31,0.017,0.010,189
+5,32,63,0.021,0.011,209
+6,64,127,0.042,0.020,239
+7,128,255,0.088,0.039,263
+8,256,511,0.195,0.093,281
+9,512,1023,0.426,0.160,309
+10,1024,2047,1.757,0.313,335
